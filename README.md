@@ -47,3 +47,7 @@ This project is licensed under the MIT License. See the <a href="<https://openso
 ## Preview
 
 <img src="preview.png" height="500" style="border-radius:10px;margin-bottom:1rem;" />
+
+## Demo
+
+### <a href="https://yaqrcg.netlify.app/" target="_blank">https://yaqrcg.netlify.app/</a>
